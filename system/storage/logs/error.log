@@ -1,0 +1,10 @@
+2018-07-19 16:02:42 - PHP Notice:  Use of undefined constant success - assumed 'success' in C:\Users\user\Desktop\OpenServer\domains\localhost\catalog\view\theme\default\template\checkout\cart.tpl on line 31
+2018-07-19 16:03:20 - PHP Notice:  Use of undefined constant success - assumed 'success' in C:\Users\user\Desktop\OpenServer\domains\localhost\catalog\view\theme\default\template\checkout\cart.tpl on line 31
+2018-07-19 16:07:56 - PHP Notice:  Use of undefined constant cart - assumed 'cart' in C:\Users\user\Desktop\OpenServer\domains\localhost\catalog\view\theme\default\template\checkout\cart.tpl on line 31
+2018-07-19 16:08:00 - PHP Notice:  Use of undefined constant cart - assumed 'cart' in C:\Users\user\Desktop\OpenServer\domains\localhost\catalog\view\theme\default\template\checkout\cart.tpl on line 31
+2018-07-19 16:16:43 - PHP Notice:  Use of undefined constant cart - assumed 'cart' in C:\Users\user\Desktop\OpenServer\domains\localhost\catalog\view\theme\default\template\checkout\cart.tpl on line 31
+2018-07-19 16:17:09 - PHP Notice:  Use of undefined constant cart - assumed 'cart' in C:\Users\user\Desktop\OpenServer\domains\localhost\catalog\view\theme\default\template\checkout\cart.tpl on line 31
+2018-07-19 16:26:40 - PHP Notice:  Use of undefined constant success - assumed 'success' in C:\Users\user\Desktop\OpenServer\domains\localhost\catalog\view\theme\default\template\checkout\cart.tpl on line 31
+2018-07-19 16:26:40 - PHP Warning:  Division by zero in C:\Users\user\Desktop\OpenServer\domains\localhost\catalog\view\theme\default\template\checkout\cart.tpl on line 31
+2018-07-19 16:27:30 - PHP Notice:  Use of undefined constant success - assumed 'success' in C:\Users\user\Desktop\OpenServer\domains\localhost\catalog\view\theme\default\template\checkout\cart.tpl on line 31
+2018-07-19 16:27:30 - PHP Warning:  Division by zero in C:\Users\user\Desktop\OpenServer\domains\localhost\catalog\view\theme\default\template\checkout\cart.tpl on line 31
